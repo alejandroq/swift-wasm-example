@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "JavaScriptKit",
+        "repositoryURL": "https://github.com/swiftwasm/JavaScriptKit",
+        "state": {
+          "branch": null,
+          "revision": "e7d5e54bf69c8fecdb88702b217a84954296d432",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
